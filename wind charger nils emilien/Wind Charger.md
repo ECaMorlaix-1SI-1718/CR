@@ -3,21 +3,9 @@
 
 ***
 
-## 1. Présentation de notre projet 
-
-## 2. Analyse fonctionnelle externe
-
-## 3. Cahier des charges fonctionnel
-
-## 4. Analyse fonctionnelle interne
-
-## 5. Modélisation et simulation
-
 ***
 
-***
-
-## 2. Analyse fonctionnelle externe
+## 1. Analyse fonctionnelle externe
 
 ### ♦ Bête à cornes
 
@@ -27,22 +15,33 @@
 
 <img src="image/diagramme pieuvre.png" alt="Diagramme pieuvre" title="Diagramme pieuvre">
 
-***
-
-## 3. Cahier des charges fonctionnel
-
-***
-
-## 4. Analyse fonctionnelle interne
-
-### ♦ Chaîne d'énergie et chaîne d'information
-
-<img src="image/beteacorne.jpg" alt="bete a corne" title="bete a corne">
+|      |                                                       |
+|------|-------------------------------------------------------|
+| FP 1 | recharger un batterie de 5V grâce à l'énergie du vent | 
+| FC 1 | être rétractable et facilement transportable          |   
+| FC 2 | résister au milieu extérieur (pluie, vent trop fort)  | 
+| FC 3 | avoir un joli design                                  |
 
 ***
 
-## 5. Modélisation et simulation
+## 2. Cahier des charges fonctionnel
+
+***
+
+## 3. Analyse fonctionnelle interne
+
+### ♦ Chaîne d'énergie et d'information
+
+***
+
+## 4. Modélisation et schéma cinématique
 
 ### ♦ Schéma cinématique
+
+<img src="image/schema cinematique.JPG" alt="schéma cinématique" title="schéma cinématique">
+
+### ♦ Modélisation
+
+***
 
 ***
