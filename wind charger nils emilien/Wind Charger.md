@@ -1,4 +1,5 @@
 
+
 # Wind Charger
 
 ***
@@ -26,6 +27,15 @@
 
 ## 2. Cahier des charges fonctionnel
 
+| Fonctions |  Critères d'appréciation  | Niveau d'exigence  | Flexibilité |
+|-----------|---------------------------|--------------------|-------------|
+|   FS 1    |                           | 
+|           |                           |
+|   FS 2    |                           |   
+|           |                           |
+|   FS 3    |                           | 
+|   FS 4    |                           |
+
 ***
 
 ## 3. Analyse fonctionnelle interne
@@ -42,6 +52,12 @@
 
 ### ♦ Modélisation
 
-***
+<img src="image/image eolienne1.png" alt="modélisation éolienne" title="modélisation éolienne">
+
+<img src="image/image eolienne2.png" alt="modélisation éolienne" title="modélisation éolienne">
+
+<img src="image/image eolienne3.png" alt="modélisation éolienne" title="modélisation éolienne">
+
+*** 
 
 ***
