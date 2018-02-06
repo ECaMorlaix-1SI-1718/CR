@@ -1,4 +1,5 @@
 
+# Nils HERRY / Emilien LE  BORGNE  1SI
 
 # Wind Charger
 
@@ -27,14 +28,13 @@
 
 ## 2. Cahier des charges fonctionnel
 
-| Fonctions |  Critères d'appréciation  | Niveau d'exigence  | Flexibilité |
-|-----------|---------------------------|--------------------|-------------|
-|   FS 1    |                           | 
-|           |                           |
-|   FS 2    |                           |   
-|           |                           |
-|   FS 3    |                           | 
-|   FS 4    |                           |
+| Fonctions de service                                        | Critères d'appréciation  | Niveau d'exigence      | 
+|-------------------------------------------------------------|--------------------------|------------------------|
+| FS 1: recharger un batterie de 5V grâce à l'énergie du vent | tension stable           | 5V                     |
+|                                                             | durée de charge          | 1h30-2h                |
+| FS 2: être rétractable et facilement transportable          | taille                   | maximum 30cm           |
+| FS 3: résister au milieu extérieur (pluie, vent trop fort)  | durée dans le temps      | ne pas tomber/rouiller |
+| FS 4: avoir un joli design                                  | formes / couleurs        | attirer le regard      |
 
 ***
 
